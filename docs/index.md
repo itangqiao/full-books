@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Tony ⁺"
   text: "成长全书"
-  tagline: 情愿做错，也不愿什么都不做  :)
+  tagline: ++ 
   image:
     src: https://gcore.jsdelivr.net/gh/itangqiao/pic@main/blog/%E5%A4%B4%E5%83%8F-%E9%80%8F%E6%98%8E.webp
   actions:
