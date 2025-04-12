@@ -11,6 +11,8 @@ export default [
     ],
     activeMatch: '^/fe'
   },
+  { text: 'Demo 测试', link: '/Demo' },
   { text: '工作流', link: '/workflow' },
-  { text: '效率工具', link: '/efficency' },
+  { text: '效率工具', link: '/efficiency' },
+  { text: '我的博客', link: 'https://itangqiao.top' },
 ]

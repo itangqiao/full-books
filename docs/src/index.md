@@ -15,6 +15,8 @@ hero:
     - theme: alt
       text: 效率工具库
       link: /efficiency/mac/index
+    - text: Demo 测试
+      link: /Demo/index
 
 features:
   - title: 前端基础
@@ -24,4 +26,3 @@ features:
   - title: 效率工具
     details: 开发和日常使用的软件、插件等
 ---
-

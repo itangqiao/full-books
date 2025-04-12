@@ -1,7 +1,8 @@
 {
+  "name": "@my-repo/full-books",
   "devDependencies": {
     "sass": "^1.74.1",
-    "vitepress": "^1.1.0"
+    "vitepress": "^1.6.3"
   },
   "scripts": {
     "dev": "vitepress dev docs --host",
